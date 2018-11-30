@@ -30,7 +30,3 @@ for (var i = 0; i < arr.length; i++) {
         }
     }
 }
-function uniqe(arg) {
-
-    return
-}
